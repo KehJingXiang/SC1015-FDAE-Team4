@@ -24,7 +24,8 @@ Our code is ordered as below in the jupyter notebook:
    - Initial
    - Tuning
 8. Logistic Regression
-9. Conclusion
+   - Classification Report
+10. Conclusion
 
 <br>
 
