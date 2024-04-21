@@ -48,8 +48,7 @@ Our code is ordered as below in the jupyter notebook:
 <br>
 
 ## Problem Definition
-
-
+Prediction of medical insurance cost based on different factors for informed decision making.
 
 <br>
 
@@ -67,8 +66,9 @@ Our code is ordered as below in the jupyter notebook:
 
 <br>
 
-## What did we learn from this project?
-
+## What did we learn?
+- Abovementioned models
+- Importance of tuning
 
 <br>
 
