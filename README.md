@@ -22,8 +22,9 @@ Our code is ordered as below in the jupyter notebook:
 10. Gradient Boosting
    - Initial
    - Tuning
-12. Logistic Regression
+11. Logistic Regression
 
+<br>
 
 ## Contributors
 - Wang Shi Ying
