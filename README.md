@@ -1,6 +1,7 @@
 # SC1015-FDAE-Team4
 <img width="937" alt="Screenshot 2024-04-21 at 3 25 48 PM" src="https://github.com/KehJingXiang/SC1015-FDAE-Team4/assets/143668219/b198a52e-ff17-4ef1-a7da-e324f08e8022">
 
+<br>
 
 ## About
 Our code is ordered as below in the jupyter notebook:
@@ -13,16 +14,17 @@ Our code is ordered as below in the jupyter notebook:
    - Univariate
    - Multivariate
    - Multivariate with separated datasets
-6. Polynomial Regression
+5. Polynomial Regression
    - Initial
    - Tuning
-8. Random Forest Regression
+6. Random Forest Regression
    - Initial
    - Tuning
-10. Gradient Boosting
+7. Gradient Boosting
    - Initial
    - Tuning
-11. Logistic Regression
+8. Logistic Regression
+9. Conclusion
 
 <br>
 
@@ -31,6 +33,7 @@ Our code is ordered as below in the jupyter notebook:
 - Natalie Ng
 - Keh Jing Xiang
 
+<br>
 
 ## Work Allocation
 - Data Import and Cleaning - Group
@@ -41,12 +44,13 @@ Our code is ordered as below in the jupyter notebook:
 - Gradient Boosting - Keh Jing Xiang
 - Logistic Regression - Wang Shi Ying
 
+<br>
 
 ## Problem Definition
 
 
-## Algorithms/Libraries
 
+<br>
 
 ## Models Used
 1. Linear Regression
@@ -55,15 +59,22 @@ Our code is ordered as below in the jupyter notebook:
 4. Gradient Boosting
 5. Logistic Regression
 
+<br>
 
 ## Conclusion
 
 
+<br>
+
 ## What did we learn from this project?
+
+
+<br>
 
 
 ## References
 - Medical Insurance Cost Prediction. https://www.kaggle.com/datasets/rahulvyasm/medical-insurance-cost-prediction/data
 - Abelson, R. (2023, June 15). It’s not just you: Many Americans face insurance obstacles over medical care and Bills. The New York Times. https://www.nytimes.com/2023/06/15/health/health-insurance-medical-bills.html
 
+<br>
 
