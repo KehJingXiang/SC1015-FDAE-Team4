@@ -42,7 +42,7 @@ Our code is ordered as below in the jupyter notebook:
 - Linear Regression - Group
 - Polynomial Regression - Natalie Ng
 - Random Forest Regression - Keh Jing Xiang
-- Gradient Boosting - Keh Jing Xiang
+- Gradient Boosting Regression - Keh Jing Xiang
 - Logistic Regression - Wang Shi Ying
 
 <br>
@@ -56,13 +56,13 @@ Prediction of medical insurance cost based on different factors for informed dec
 1. Linear Regression
 2. Polynomial Regression
 3. Random Forest Regression
-4. Gradient Boosting
+4. Gradient Boosting Regression
 5. Logistic Regression
 
 <br>
 
 ## Conclusion
-
+Gradient Boosting Regression.
 
 <br>
 
